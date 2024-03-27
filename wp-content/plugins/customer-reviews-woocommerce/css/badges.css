@@ -88,11 +88,11 @@
 }
 
 .cr-badge .badge__star-icon_type_empty {
-		background-image: url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/img/small-star-empty-light.png');
+		background-image: url('https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/img/small-star-empty-light.png');
 }
 
 .cr-badge .badge__star-icon_type_fill {
-		background-image: url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/img/small-star-full.png');
+		background-image: url('https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/img/small-star-full.png');
 }
 
 .cr-badge .verified {
@@ -112,7 +112,7 @@
 		display: inline-block;
 		width: 32px;
 		height: 32px;
-		background-image: url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/img/logo.svg');
+		background-image: url('https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/img/logo.svg');
 		background-size: cover;
 		position: relative;
 		top: 2px;
@@ -150,7 +150,7 @@
 }
 
 .cr-badge.badge_color_dark .badge__star-icon_type_empty {
-		background-image: url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/img/small-star-empty-dark.png');
+		background-image: url('https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/img/small-star-empty-dark.png');
 }
 
 .cr-badge.badge_color_dark .verified {
@@ -177,7 +177,7 @@
 		left: 0;
 		width: 60px;
 		height: 60px;
-		background-image: url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/img/logo.svg');
+		background-image: url('https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/img/logo.svg');
 		background-size: contain;
 		background-repeat: no-repeat;
 }
@@ -209,19 +209,19 @@
 }
 
 .cr-badge.badge_size_wide .badge__star-icon_type_empty {
-		background-image: url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/img/wide-star-empty-light.png');
+		background-image: url('https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/img/wide-star-empty-light.png');
 }
 
 .cr-badge.badge_size_wide .badge__star-icon_type_fill {
-		background-image: url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/img/wide-star-full-light.png');
+		background-image: url('https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/img/wide-star-full-light.png');
 }
 
 .cr-badge.badge_color_dark.badge_size_wide .badge__star-icon_type_fill {
-		background-image: url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/img/wide-star-full-dark.png');
+		background-image: url('https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/img/wide-star-full-dark.png');
 }
 
 .cr-badge.badge_color_dark.badge_size_wide .badge__star-icon_type_empty {
-		background-image: url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/img/wide-star-empty-dark.png');
+		background-image: url('https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/img/wide-star-empty-dark.png');
 }
 
 .cr-badge.badge_size_wide .rating {
@@ -325,7 +325,7 @@
 }
 
 .cr-badge.badge-vs .badge__logo {
-		background-image: url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/img/logo-vs.svg');
+		background-image: url('https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/img/logo-vs.svg');
 		height: 80px;
 		width: 80px;
 		position: relative;
@@ -369,13 +369,13 @@
 }
 
 .cr-badge.badge-vs .badge__star-icon--empty {
-		background-image: url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/img/star-stroke.svg');
+		background-image: url('https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/img/star-stroke.svg');
 		background-position: left;
 		border-spacing: 0;
 }
 
 .cr-badge.badge-vs .badge__star-icon--fill {
-		background-image: url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/img/star-fill.svg');
+		background-image: url('https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/img/star-fill.svg');
 		background-position: left;
 		border-spacing: 0;
 

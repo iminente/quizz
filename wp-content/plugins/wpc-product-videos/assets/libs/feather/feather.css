@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'feather';
-    src: url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/wpc-product-videos/assets/libs/feather/fonts/feather.eot');
-    src: url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/wpc-product-videos/assets/libs/feather/fonts/feather.eot#iefix') format('embedded-opentype'),
-    url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/wpc-product-videos/assets/libs/feather/fonts/feather.ttf') format('truetype'),
-    url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/wpc-product-videos/assets/libs/feather/fonts/feather.woff') format('woff'),
-    url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/wpc-product-videos/assets/libs/feather/fonts/feather.svg#feather') format('svg');
+    src: url('https://iminente.github.io/quizz/wp-content/plugins/wpc-product-videos/assets/libs/feather/fonts/feather.eot');
+    src: url('https://iminente.github.io/quizz/wp-content/plugins/wpc-product-videos/assets/libs/feather/fonts/feather.eot#iefix') format('embedded-opentype'),
+    url('https://iminente.github.io/quizz/wp-content/plugins/wpc-product-videos/assets/libs/feather/fonts/feather.ttf') format('truetype'),
+    url('https://iminente.github.io/quizz/wp-content/plugins/wpc-product-videos/assets/libs/feather/fonts/feather.woff') format('woff'),
+    url('https://iminente.github.io/quizz/wp-content/plugins/wpc-product-videos/assets/libs/feather/fonts/feather.svg#feather') format('svg');
     font-weight: normal;
     font-style: normal;
 }

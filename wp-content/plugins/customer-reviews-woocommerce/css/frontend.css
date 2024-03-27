@@ -783,8 +783,8 @@ div.ivole-summaryBox.cr-summaryBar-updating,
 }
 @font-face {
 	font-family: crstar;
-	src: url(https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/fonts/star.eot);
-	src: url(https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/fonts/star.eot#iefix) format("embedded-opentype"),url(https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/fonts/star.woff) format("woff"),url(https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/fonts/star.ttf) format("truetype"),url(https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/fonts/star.svg#star) format("svg");
+	src: url(https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/fonts/star.eot);
+	src: url(https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/fonts/star.eot#iefix) format("embedded-opentype"),url(https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/fonts/star.woff) format("woff"),url(https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/fonts/star.ttf) format("truetype"),url(https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/fonts/star.svg#star) format("svg");
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
@@ -1245,7 +1245,7 @@ img.ivole-verified-badge-ext-icon {
 .cr-show-more-review-spinner, .cr-show-more .cr-show-more-spinner {
 	display: block;
 	margin: 20px auto;
-	background: url(https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/img/spinner-2x.gif) no-repeat;
+	background: url(https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/img/spinner-2x.gif) no-repeat;
 	background-size: 20px 20px;
 	width: 20px;
 	height: 20px;
@@ -2017,7 +2017,7 @@ img.ivole-verified-badge-ext-icon {
 #cr_qna.cr-qna-block #cr-show-more-q-spinner {
 	display: block;
 	margin: 20px auto;
-	background: url(https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/img/spinner-2x.gif) no-repeat;
+	background: url(https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/img/spinner-2x.gif) no-repeat;
 	background-size: 20px 20px;
 	width: 20px;
 	height: 20px;
@@ -2216,7 +2216,7 @@ img.ivole-verified-badge-ext-icon {
 #review_form .cr-upload-images-preview .cr-upload-images-containers .cr-upload-images-delete-spinner,
 .cr-upload-images-preview .cr-upload-images-containers .cr-upload-images-delete-spinner {
 	margin: 0;
-	background: url(https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/img/spinner-2x.gif) no-repeat;
+	background: url(https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/img/spinner-2x.gif) no-repeat;
 	background-size: 20px 20px;
 	width: 20px;
 	height: 20px;
@@ -2670,8 +2670,8 @@ img.ivole-verified-badge-ext-icon {
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
-	src: url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/fonts/slick.eot');
-	src: url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/fonts/slick.eot#iefix') format('embedded-opentype'), url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/fonts/slick.woff') format('woff'), url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/fonts/slick.ttf') format('truetype'), url('https://landingpage-happy-hair.on.drv.tw/site/wp-content/plugins/customer-reviews-woocommerce/fonts/slick.svg#slick') format('svg');
+	src: url('https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/fonts/slick.eot');
+	src: url('https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/fonts/slick.eot#iefix') format('embedded-opentype'), url('https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/fonts/slick.woff') format('woff'), url('https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/fonts/slick.ttf') format('truetype'), url('https://iminente.github.io/quizz/wp-content/plugins/customer-reviews-woocommerce/fonts/slick.svg#slick') format('svg');
 }
 .slick-slider
 {

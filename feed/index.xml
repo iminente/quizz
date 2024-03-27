@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Betterquality</title>
-	<atom:link href="https://landingpage-happy-hair.on.drv.tw/site/feed/" rel="self" type="application/rss+xml" />
-	<link>https://landingpage-happy-hair.on.drv.tw/site</link>
+	<atom:link href="https://iminente.github.io/quizz/feed/" rel="self" type="application/rss+xml" />
+	<link>https://iminente.github.io/quizz/</link>
 	<description>Qualidade de vida, você deve isso a si mesmo!</description>
-	<lastBuildDate>Sat, 17 Feb 2024 02:49:04 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 26 Mar 2024 19:12:17 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://landingpage-happy-hair.on.drv.tw/site/wp-content/uploads/2022/09/cropped-photo_2023-07-10_21-46-30-32x32.png</url>
+	<url>https://iminente.github.io/quizz/wp-content/uploads/2022/09/cropped-photo_2023-07-10_21-46-30-32x32.png</url>
 	<title>Betterquality</title>
-	<link>https://landingpage-happy-hair.on.drv.tw/site</link>
+	<link>https://iminente.github.io/quizz/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
